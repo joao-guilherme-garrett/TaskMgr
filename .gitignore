@@ -1,0 +1,20 @@
+**/bin/
+**/obj/
+**/node_modules/
+
+*.suo
+*.user
+*.userosscache
+*.vs/
+*.*proj.user
+
+*.nupkg
+.nuget/packages/
+.nuget/toolpackages/
+
+Migrations/.Designer.cs
+Migrations/.resx
+
+Node.js specific
+
+/Frontend/taskmgr-frontend/dist/
